@@ -1,0 +1,64 @@
+.main{
+    margin-right:100px;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.profile{
+    display:flex;
+    justify-content: end;
+    margin-top:-850px;
+    margin-left:100px;
+}
+.delete{
+    padding:7px;
+    border-radius:10px;
+    background-color: rgb(229, 29, 29);
+    color:white;
+    /* margin-top:20px; */
+    margin-bottom:20px;
+    margin-left:100px;
+}
+.del{
+    text-align: center;
+}
+.close{
+    padding:7px;
+    border-radius:10px;
+    background-color: rgb(229, 29, 29);
+    color:white;
+    margin-top:20px;
+    margin-bottom:10px;
+    margin-left:200px;
+
+}
+.line{
+    width:100%;
+    height:2px;
+    background-color: black;
+    margin-top:20px;
+    
+}
+.title{
+    text-align: center;
+}
+.space{
+   margin-left:50px;
+}
+.uploadImg{
+  display: flex;
+  flex-direction: column;
+}
+
+.image{
+    align-self: center;
+    margin-left:50px;
+}
+.save{
+    width:100px;
+    margin-top:20px;
+    align-self: center;
+    padding:5px;
+    border-radius:10px;
+    color:white;
+    background-color: rgb(37, 172, 214);
+}

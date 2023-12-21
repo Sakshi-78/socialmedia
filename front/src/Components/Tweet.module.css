@@ -1,0 +1,108 @@
+.info{
+    display:flex; 
+    height:78px;
+    margin-left:50px;
+}
+.name{
+    text-decoration: none;
+    color:black;
+    margin-top:20px;
+}
+.username{
+     margin-left:10px;
+     margin-top:40px;
+}
+.date{
+    margin-left:10px;
+    margin-top:40px;
+}
+.description{
+    margin-top:5px;
+   
+}
+.btn{
+    margin-left:10px;
+    padding:5px;
+    padding-left:10px;
+    padding-right: 10px;
+    
+}
+.like{
+    cursor: pointer;
+    background-color: white; 
+}
+.icons{
+    display:flex;
+    margin-left:70px;
+    margin-top:18px;
+    margin-bottom:20px; 
+}
+.delbtn{
+    margin-left:30px;
+    margin-top:4px;
+}
+.img{
+    width:70px;
+    height:70px;
+    border-radius: 100px;
+    margin-left:20px;
+    margin-top:20px;
+}
+.commentsection{
+    height:100px;
+    margin-left:20px;
+}
+.comments{
+    height:80px;
+    color:black;
+}
+.margin{
+    width:100%;
+    height:1px;
+    background-color:  rgb(210, 201, 201);
+    margin-top:50px;
+}
+
+.upload{
+    
+    width:550px;
+    height:400px;
+}
+
+.comment{
+    display:flex;
+    margin-left:20px;
+}
+
+.text{
+    margin-left:20px;
+    margin-top:20px;
+}
+.mycomment{
+    margin-left:50px;
+    padding:7px;
+    
+}
+.submit{
+    margin-left:20px;
+    padding:7px;
+    border-radius:10px;
+    color:white;
+    background-color: rgb(37, 172, 214);
+}
+.uploadimg{
+    margin-left:50px;
+}
+.des{
+    margin-left:50px;
+}
+.mypic{
+    width:30px;
+    height:30px;
+    border-radius: 5px;
+    margin-top:35px;
+    margin-right:10px;
+}
+.myname{
+    margin-left:50px;
+}

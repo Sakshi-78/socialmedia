@@ -1,0 +1,52 @@
+.form{
+    background-color: beige;
+    width:400px;
+    height:500px;
+    margin-left:650px;
+    margin-top:150px;
+    border:1px solid black;
+}
+.logo{
+    height:40px;
+    margin-top:40px;
+    margin-left:40%;
+    margin-bottom:20px;
+}
+
+.title{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.name,.password{
+    font-family: sans-serif;
+    font-size: 15px;
+    width:270px;
+    margin-left:60px;
+    text-align: center;
+    padding:5px;
+    border-radius: 10px;
+    margin-top:40px;
+}
+.btn{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top:50px;
+    margin-left:100px;
+    width:200px;
+    padding:7px;
+    border-radius: 10px;
+    background-color: rgb(37, 172, 214);
+    color:white;
+}
+.redirect{
+    display:flex;
+    margin-top:20px;
+    margin-left:70px;
+    flex-direction:row;
+}
+.link{
+    margin-left:10px;
+    text-decoration: none;
+    margin-top:15px;
+}

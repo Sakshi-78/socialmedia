@@ -1,0 +1,40 @@
+.navbar{
+    position: sticky;
+    top: 0;    
+}
+
+.logo{
+    height:40px;
+    margin-top:40px;
+    margin-left:35%;
+   margin-bottom: 30px;
+}
+
+.list{
+    list-style: none;
+    margin-top:20px;   
+}
+
+.navitem{
+    display: flex;
+    margin-top:20px;
+    text-decoration: none;
+    /* margin-left:13%; */ 
+}
+.home,.tag,.profile{
+    margin-right:10px;
+}
+
+.logout{
+    margin-top:450px;
+    margin-left:35%;
+}
+.btn{
+    padding:10px;
+    border-radius: 5px;
+    background-color:brown;
+    color:white;
+}
+
+
+
